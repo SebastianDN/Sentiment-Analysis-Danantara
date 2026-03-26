@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Sentiment Analysis of Danantara Program (Twitter Data)
 
 This project aims to analyze public sentiment toward the **Danantara program** using data collected from platform X (Twitter).  
@@ -86,3 +87,16 @@ Run the notebooks in order:
 Data Collection
 Data Preprocessing
 Modeling
+=======
+# Sentiment Analisis
+ 
+PENERAPAN SMOTE PADA ANALISIS SENTIMEN PROGRAM DANANTARA DI PLATFORM X MENGGUNAKAN MODEL NAïVE BAYES, SVM, DAN RANDOM FOREST
+
+📌 Tujuan
+- Melakukan analisis sentimen berdasarkan opini Masyarakat pada media sosial X terhadap program Danantara menggunakan Naïve Bayes, Support Vector Machine, Random Forest.
+- Membandingkan performa model klasifikasi dengan menggunakan Naïve Bayes, Support Vector Machine, Random Forest dan pengaruh penerapan SMOTE untuk mengatasi data yang tidak seimbang dalam menganalisis sentimen opini masyarakat pada media sosial X terhadap program Danantara.
+
+## 🛠 Tech stack
+- Bahasa: Python
+- Library: pandas, scikit-learn, matplotlib, seaborn, nltk, dll.
+>>>>>>> 5041a188a8683deea585eae0cfb7eddf6d81284f
