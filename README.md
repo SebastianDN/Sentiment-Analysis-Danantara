@@ -2,6 +2,7 @@
 
 This project analyzes public sentiment toward the **Danantara program** using data collected from platform X (Twitter).  
 The study focuses on handling imbalanced data using **SMOTE** and evaluating how different SMOTE strategies affect model performance.
+This project not only builds sentiment classification models, but also evaluates the impact of SMOTE placement and highlights potential data leakage issues in machine learning pipelines.
 
 ---
 
